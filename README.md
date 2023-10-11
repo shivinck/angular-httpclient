@@ -1,3 +1,3 @@
 # Angular HttpclientApp
 
-Please give star if you like it.
+Please give a star if you like it.
